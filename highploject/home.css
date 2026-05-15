@@ -1,0 +1,39 @@
+a{
+    background-color: rgb(255, 0, 247);
+    color: white;
+     padding: 40px;
+    border-radius: 211px;
+    gap: 20px;
+    position: relative;
+    text-decoration: none;
+     width: 333px;
+    margin-right:80px;
+    
+}
+a:hover{
+    background-color: black;
+    color: chartreuse;
+    transition: 0.5s;
+     padding: 40px;
+      gap: 20px;
+     
+
+}
+form{
+    background-color: rgb(255, 0, 245);
+    padding: 40px;
+    border-radius: 11px;
+     gap: 20px;
+} 
+body{
+    background-image: url("dollars.jpg");
+}
+h1{
+    color: rgb(255, 0, 245);
+    background-color: bisque;
+}
+h2{
+    color: rgb(255, 0, 245);
+    background-color: bisque;
+    max-block-size: 0dvb;
+}

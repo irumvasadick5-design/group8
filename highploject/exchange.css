@@ -1,0 +1,53 @@
+ body {
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+            background-image: url("rwf.webp");
+        }
+        .container {
+            margin-top: 50px;
+            padding: 20px;
+background-color: #f0f0f0;
+font-size: 18px;
+            border-radius: 10px;
+            width: 400px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2); 
+            text-decoration: none;
+        padding: 50px;
+        color: #0f100c;
+        box-shadow: 0 0 15px #f0239e;
+
+        }
+        input, button {
+            margin: 10px 0;
+            padding: 10px;
+            width: 60%;
+            border-radius: 5px;
+            border: 1px solid #5c8b0d;
+            background-color: rgb(249, 249, 249);
+         color: rgb(3, 3, 3);
+            padding: 29px;
+            font-size: 16px;
+        }
+        button {
+            background: #492ece;
+            color: rgb(89, 161, 224);
+            cursor: pointer;
+            padding: 12px;
+        }
+        button:hover {
+            background: #0f447e;
+        }
+        h1 {
+            font-size: 19px;
+            color: rgb(12, 10, 10);
+            background-color: #f8f8f6;
+        }
+        a{
+            text-decoration: none;
+            color: #0774da;
+            font-size: 15px;
+        }
+        title{
+            background-color: #0f100c;
+        }
+ 
